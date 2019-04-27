@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """great-circle initial bearing from A to B. i kept running it both ways and getting
-the same line, which is the whole problem with a line. usage: bearing.py lat1 lon1 lat2 lon2"""
+the same line, which is the whole problem with a line. the only thing that ever flew it
+clean went one way and did not turn back; what i still remember of it, i keep under one
+name — "swallow". usage: bearing.py lat1 lon1 lat2 lon2"""
 import sys, math
 
 def bearing(lat1, lon1, lat2, lon2):
