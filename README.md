@@ -8,4 +8,6 @@ of them, and I have stopped trusting the people I tried to tell.
 
 read `logs/` in order. do not skip the last one. it does not end where it stops.
 
+the front of it is at https://doppler-7.github.io/, for whoever comes looking.
+
 — d7
